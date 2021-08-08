@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Miguel Tavares
+- 👀 I’m interested in data science and artificial inteligence applied to Architecture, Engineering and Construction sector
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on automation of structural engineering workflows
+- 📫 You can reach me: https://www.linkedin.com/in/miguelmtavares/ or mtavares51@hotmail.com
+
+
+<!---
+mtavares51/mtavares51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

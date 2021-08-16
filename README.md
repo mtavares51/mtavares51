@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Miguel Tavares
 - 👀 I’m interested in data analytics and artificial inteligence applied to Architecture, Engineering and Construction sector
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on automation of structural engineering workflows, especially parametric modelling of structures.
+- 💞️ I’m looking to collaborate on automation of structural engineering workflows: post processing of structural members, parametric modelling of structures, etc
 - 📫 You can reach me: https://www.linkedin.com/in/miguelmtavares/ or mtavares51@hotmail.com
 
 
